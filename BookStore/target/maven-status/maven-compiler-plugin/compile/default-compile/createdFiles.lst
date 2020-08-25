@@ -1,0 +1,12 @@
+com\bookstore\repository\BookRepo.class
+com\bookstore\api\BookApiController.class
+com\bookstore\dto\BookDTO.class
+com\bookstore\entities\UserEntity.class
+com\bookstore\service\BookService.class
+com\bookstore\configuration\SwaggerConfiguration.class
+com\bookstore\entities\BookEntity.class
+com\bookstore\dto\UserDTO.class
+com\bookstore\repository\UserRepo.class
+com\bookstore\service\UserService.class
+com\bookstore\api\UserApiController.class
+com\bookstore\BookStoreApplication.class
